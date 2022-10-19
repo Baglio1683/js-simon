@@ -1,3 +1,14 @@
-body{
-    background-color: aqua;
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    padding: 0;
+    margin: 0 auto;
+    height: 80vh;
+    width: 80vw;
+    background-color: lightgreen;
+    text-align: center;
 }
